@@ -44,7 +44,7 @@ namespace Lab1
                     }
             else
             {
-                Console.WriteLine("That word is the same length as the first one....");
+                 Console.WriteLine("That word is the same length as the first one....");
                     }
            Console.ReadLine(); //This is here so the app doesn't close
         }
